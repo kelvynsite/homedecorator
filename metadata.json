@@ -1,0 +1,5 @@
+{
+  "name": "AI Home Decorator",
+  "description": "An AI-powered home decorator that uses image editing and Google Search to help you visualize new decor in your space. Upload a photo of your room, describe the changes you want, and see the result with links to recommended products.",
+  "requestFramePermissions": []
+}
